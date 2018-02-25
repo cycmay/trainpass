@@ -17,7 +17,7 @@ proxies = {
 }
 
 logger = TimeLogger('telegram_trainPass_monitor%s.log' % time.strftime('%Y-%m-%d'))
-myselfBot = "509078605:AAGUB7RMUnmRWKfSTieRyfH9DLczwEgTLGI"
+myselfBot = ''
 
 
 class TelegramBot:
